@@ -9,7 +9,7 @@ O projeto é um excelente exercício para praticar:
 * **Criação de uma identidade visual** coesa através da combinação de cores, tipografia e elementos gráficos.
 
 ## 🚀 Acesse o Site
-
+https://aleksandraberto.github.io/WebsiteSabordoBrasil/
 
 ## 📂 Estrutura do projeto
 /SaborDoBrasilWebsite
